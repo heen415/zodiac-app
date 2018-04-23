@@ -1,0 +1,8 @@
+.hiddenDiv{
+  display:none;
+}
+
+#displayInfo{
+  margin: 0 auto;
+	width: 175px;
+}
